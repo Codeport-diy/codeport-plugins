@@ -1,6 +1,6 @@
 {
   "name": "codeport",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "description": "Know the cost, ship anywhere, stay in control: estimate an idea before you code, pick where to host it, check it for leaked secrets and deploy it to your own cloud.",
   "author": {
     "name": "Codeport Ltd.",
