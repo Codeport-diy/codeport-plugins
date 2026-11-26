@@ -1,0 +1,20 @@
+{
+  "name": "codeport",
+  "owner": {
+    "name": "Codeport Ltd.",
+    "email": "info@codeport.diy"
+  },
+  "metadata": {
+    "description": "The Codeport plugin: hosting cost, where to deploy, security check and deploy."
+  },
+  "plugins": [
+    {
+      "name": "codeport",
+      "source": "./codeport",
+      "description": "Estimate an idea before you code, pick where to host it, check it for leaked secrets and deploy it to your own cloud.",
+      "version": "0.8.0",
+      "category": "development",
+      "homepage": "https://codeport.diy"
+    }
+  ]
+}

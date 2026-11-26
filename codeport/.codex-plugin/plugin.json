@@ -1,0 +1,33 @@
+{
+  "name": "codeport",
+  "version": "0.8.0",
+  "description": "Know the cost, ship anywhere, stay in control: estimate an idea before you code, pick where to host it, check it for leaked secrets and deploy it to your own cloud.",
+  "author": {
+    "name": "Codeport Ltd.",
+    "email": "info@codeport.diy",
+    "url": "https://codeport.diy"
+  },
+  "homepage": "https://codeport.diy",
+  "repository": "https://github.com/codeport-diy/codeport-plugins",
+  "license": "UNLICENSED",
+  "keywords": ["hosting", "cloud", "cost", "deploy", "security", "secrets"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Codeport",
+    "shortDescription": "Hosting cost, where to deploy, security check and deploy",
+    "longDescription": "Codeport analyzes the app you are building: its stack, its monthly hosting cost on every major platform and the best place to run it. It checks the code for leaked secrets and vulnerable dependencies before you push, follows your organization's guidelines while you code, and deploys to your own Google Cloud or AWS account. Analysis runs on your machine; only the stack profile is sent to Codeport.",
+    "developerName": "Codeport Ltd.",
+    "category": "Developer Tools",
+    "capabilities": ["Interactive", "Read", "Write"],
+    "websiteURL": "https://codeport.diy",
+    "defaultPrompt": [
+      "Where should I host this project, and what will it cost?",
+      "Check this project for leaked secrets before I push",
+      "Estimate my app idea before I start building"
+    ],
+    "brandColor": "#6D44FF",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "codeport": {
+      "command": "npx",
+      "args": ["-y", "codeport@0.8.0"]
+    }
+  }
+}

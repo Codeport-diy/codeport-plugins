@@ -1,0 +1,12 @@
+{
+  "name": "codeport",
+  "interface": { "displayName": "Codeport" },
+  "plugins": [
+    {
+      "name": "codeport",
+      "source": { "source": "local", "path": "./codeport" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Developer Tools"
+    }
+  ]
+}

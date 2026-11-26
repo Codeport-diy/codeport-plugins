@@ -1,0 +1,14 @@
+{
+  "name": "codeport",
+  "version": "0.8.0",
+  "description": "Know the cost, ship anywhere, stay in control: estimate an idea before you code, pick where to host it, check it for leaked secrets and deploy it to your own cloud.",
+  "author": {
+    "name": "Codeport Ltd.",
+    "email": "info@codeport.diy",
+    "url": "https://codeport.diy"
+  },
+  "homepage": "https://codeport.diy",
+  "repository": "https://github.com/codeport-diy/codeport-plugins",
+  "license": "UNLICENSED",
+  "keywords": ["hosting", "cloud", "cost", "deploy", "security", "secrets"]
+}
